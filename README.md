@@ -18,4 +18,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 [Link](https://stevegsiegel.github.io/Scheduler/)
 ![Screenshot](./assets/screenshot/screenshot.png/)
-![Screenshot](./assets/screenshot/acheduler.png/)
+![Screenshot](./assets/screenshot/scheduler.png/)
